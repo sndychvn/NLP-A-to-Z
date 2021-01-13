@@ -1,0 +1,25 @@
+# Linting
+black==20.8b1
+flake8
+mypy
+flake8-mypy
+flake8-bugbear
+isort
+pandas-vet
+rope
+
+# Pre-commit hooks
+pre-commit
+
+# Jupyter
+ipykernel
+
+# Testing
+pytest
+pytest-cov
+
+# Docs
+sphinx-rtd-theme
+numpydoc
+sphinx-argparse
+sphinx-click
